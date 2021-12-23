@@ -2,7 +2,7 @@ INSTALLAZIONE
 
 segui i seguenti passi per l'installazione della web app!
 
-1)	scarica la cartella con tutti i files del progetto da github: link
+1)	scarica la cartella con tutti i files del progetto da github: https://github.com/kasundspeck/mssn-project2122-secured
 2)	installa xampp e phpmyadmin
 3)	sposta la cartella del progetto nella cartella xampp/htdocs
 4)	apri la cartella e apri il file dbconnection.php. Inserisci i tuoi dati per il collegamento con phpmyadmin: $host= "localhost"; $user="?"; $pwd="?"; $db="MSSN-Project2122";
