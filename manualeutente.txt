@@ -1,0 +1,19 @@
+INSTALLAZIONE
+
+segui i seguenti passi per l'installazione della web app!
+
+1)	scarica la cartella con tutti i files del progetto da github: link
+2)	installa xampp e phpmyadmin
+3)	sposta la cartella del progetto nella cartella xampp/htdocs
+4)	apri la cartella e apri il file dbconnection.php. Inserisci i tuoi dati per il collegamento con phpmyadmin: $host= "localhost"; $user="?"; $pwd="?"; $db="MSSN-Project2122";
+5)	conettiti con MYSQL e APACHE via XAMPP
+6)	importa il file *** in phpmyadmin/sql. phpmyadmin crea il database mssn-project2122 e inserisce i dati
+8)	ora puoi collegarti via localhost/mssn-project2122/index.php nel tuo browser!
+
+
+USO DELL'APPLICAZIONE
+
+questa web applicazione offre un forum dove si può porre delle domande e rispondere a esse. 
+un utente non registrato e non loggato può solo visualizzare il forum ma non scrivere ne rispondere alle domande. 
+un utente registrato e loggato invece può porre delle domande, rispondere a domande di altri e sue e anche cambiare password (settings.php) 
+

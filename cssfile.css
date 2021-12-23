@@ -1,0 +1,68 @@
+*{
+    font-family: sans-serif;
+    text-decoration: none;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body { 
+    
+    background: rgb(216, 212, 201) !important; 
+}
+
+#signuplogin a {
+
+    margin-left: 5px;
+
+}
+
+
+.nav-item a:hover{
+
+    background-color: rgb(63, 141, 194);
+    color: azure !important;
+    transition: 0.1s;
+    border-radius: 10px;
+}
+
+.contentt{
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans' Arial, sans-serif;
+
+    margin: 5%;
+    margin-top: 120px;
+   
+}
+
+#footer {
+
+    height: 150px;
+    width: 100%;
+    background-image: url("navifooter/border.png") ;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    padding-bottom:0;
+    /*background-color: rgb(221, 109, 109);*/
+
+}
+
+/*#infooter {
+
+    width: 87%;
+    height: 90px;
+    background-color: rgba(214, 213, 213, 0.301);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}*/
+
+#infooter table tr td  {
+ 
+    padding-left: 10px;
+    padding-top: 12px;
+
+}
